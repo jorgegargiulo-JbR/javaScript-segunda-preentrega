@@ -22,7 +22,7 @@ console.logs
 
 
 #### Estructura de Carpetas
-•	Fue creada la carpeta helpers.js para organizar el código y encapsular funcionalidades reutilizables, evitando duplicación y manteniendo el código principal (app.js) más limpio y fácil de leer. Actúa como un módulo que contiene clases, funciones auxiliares y lógica común que el simulador necesita para operar.<br><br>
+Fue creada la carpeta helpers.js para organizar el código y encapsular funcionalidades reutilizables, evitando duplicación y manteniendo el código principal (app.js) más limpio y fácil de leer. Actúa como un módulo que contiene clases, funciones auxiliares y lógica común que el simulador necesita para operar.<br><br>
 
 
 #### Variables en JS
